@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ospinto/dbug": "dev-master"
+    }
+}

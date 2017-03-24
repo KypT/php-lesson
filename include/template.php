@@ -1,0 +1,1 @@
+<p><?php echo "Hi there from another file" ?></p>
